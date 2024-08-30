@@ -42,4 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xEncerx/xEncerx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xEncerx/xEncerx/1c509350248e4fd9794f364203b7257090f99e91/output/snake.svg" alt="Snake animation" />
