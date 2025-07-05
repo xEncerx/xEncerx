@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xEncerx&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/xEncerx)
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="180" width="180" src="https://i.imgflip.com/65efzo.gif"/>
 
 <div align="left">
 <h3>🛠️ Languages & Frameworks:</h3>
